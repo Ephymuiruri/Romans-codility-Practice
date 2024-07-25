@@ -1,4 +1,5 @@
-// There are N guests (numbered from 0 to N-1) in a sanatorium waiting to be assigned a room. In each room, any number of guests can be accommodated. However, not all guests like to have a lot of roommates.
+// There are N guests (numbered from 0 to N-1) in a sanatorium waiting to be assigned a room.
+// In each room, any number of guests can be accommodated. However, not all guests like to have a lot of roommates.
 
 // You are given an array A of N integers: the K-th guest wants to be in a room that contains at most A[K] guests, including themselves.
 
